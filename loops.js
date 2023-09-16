@@ -27,17 +27,17 @@ do {
   }
   console.log(factorialOf(5));**/
   
-  let i = 10;
+// Initialize i with the value 10
+let i = 10;
+
+// While i is greater than or equal to 0, execute the loop
 while (i >= 0) {
-  console.log(i);
-  i--;
-  }
-var i = 10; // begin at 10
-while (i > 0) {
-    console.log( i-- ); // prints 10, 9, ..., 1
+  console.log(i); // Output the current value of i
+  i--; // Decrement i by 1
 }
+
+// Output a message when the loop is finished
 console.log("Blast Off!");
-  
 
 
 
