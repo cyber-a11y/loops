@@ -1,0 +1,58 @@
+JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled
+ programming language with first-class functions. While it is most well-
+known as the scripting language for Web pages, many non-browser 
+environments also use it, such as Node.js, Apache CouchDB and Adobe 
+Acrobat. JavaScript is a prototype-based, multi-paradigm, single-
+object-oriented, imperative, and declarative (e.g. functional programming)
+ styles
+variables are like containers that can hold different value.
+javascript can write a program that tells a computer to make a decision.
+you can make a computer to make maths.
+you can use java to make effects on webpage better than css.
+to make a computer stand your java code u need to write in the right place
+with the right grammar and spelling.
+JavaScript is a powerful programming language that can add interactivity 
+to a website. It was invented by Brendan Eich.
+JavaScript is versatile and beginner-friendly. With more experience, 
+you'll be able to create games, animated 2D and 3D graphics, 
+comprehensive database-driven apps, and much more!.
+JavaScript itself is relatively compact, yet very flexible. Developers 
+have written a variety of tools on top of the core JavaScript language, 
+unlocking a vast amount of functionality with minimum effort.
+these include
+denyz abrahams1:44 PM
+Browser Application Programming Interfaces (APIs) built into web browsers,
+ providing functionality such as dynamically creating HTML and setting CSS 
+styles; collecting and manipulating a video stream from a user's webcam, or
+ generating 3D graphics and audio samples.
+Third-party APIs that allow developers to incorporate functionality in sites 
+from other content providers, such as Twitter or Facebook.
+Third-party frameworks and libraries that you can apply to HTML to accelerate 
+the work of building sites and applications.
+Browser APIs: These are tools that are built into web browsers. They give 
+programmers special abilities to do things on a website. For example, they 
+can use browser APIs to create new parts of a webpage, change how things 
+look with different styles, or even use a person's webcam to capture videos. 
+It's like having a special toolbox of functions that helps programmers add cool 
+features to websites.
+Third-party APIs: These are tools created by other companies or services that 
+let programmers add extra features to their websites. For example, if a programmer
+ wants to show a Twitter feed on their website, they can use the Twitter API, which
+ provides functions that make it easy to get and display tweets. Similarly, there are
+ APIs for Facebook, Google Maps, and many other services. It's like borrowing tools 
+from other companies to make your website more powerful and interactive.
+Frameworks and libraries: These are pre-made sets of code that programmers can use
+ to speed up their work. Think of them as ready-made building blocks or templates. 
+They provide a structure and ready-to-use functions that make it easier to create 
+websites and applications. Instead of starting from scratch, programmers can use 
+frameworks and libraries to save time and effort. It's like having a set of Lego
+ blocks that you can quickly assemble to build something without having to create 
+each piece.
+So, in simple terms:
+
+Browser APIs are built-in tools in web browsers that let programmers add special
+ features to websites.
+Third-party APIs are tools created by other companies that let programmers add 
+extra features from those companies to their websites.
+Frameworks and libraries are pre-made sets of code that help programmers build 
+websites and applications faster.

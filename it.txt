@@ -1,0 +1,5 @@
+template literals or template strings are convient.
+introduction to arrays:
+Arrays in computer programming is a data structure 
+used to store multiple elements of the same or different types.
+they collect

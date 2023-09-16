@@ -1,0 +1,45 @@
+JavaScript is known for being the scripting language used on web pages.
+ When you visit a website and see interactive elements like buttons that 
+change color when you click on them, or forms that validate your input, 
+that's often done with JavaScript. However, JavaScript is not only used 
+in web browsers. It can also be used in other environments like Node.js,
+ Apache CouchDB, and Adobe Acrobat.
+
+JavaScript is a prototype-based language, which means it has a different
+ way of creating and using objects compared to some other languages.
+ It supports multiple programming paradigms,which are different ways of 
+thinking about and structuring code. It can be used in an object-oriented
+ style, where you can create objects with properties and methods. It also
+ supports imperative programming, which is a more step-by-step approach 
+to writing code. Additionally, it supports declarative programming, 
+which is a style that focuses on describing what you want to achieve 
+without specifying the exact steps to get there. This includes functional
+ programming, where you can use functions as first-class citizens in your
+ code.
+
+JavaScript is single-threaded, which means it can only do one thing at a
+ time. It doesn't have built-in support for running multiple tasks 
+simultaneously. However, there are techniques and libraries that allow
+ for asynchronous programming, which helps with handling tasks that may
+ take some time to complete.
+
+Overall, JavaScript is a flexible and versatile programming language that
+ can be used in different environments, not just for web development.
+ It supports various programming styles and has features that allow you to
+ create interactive and dynamic applications.
+nb:paradigm is a way or style of doing something ie i different sets of
+guide. its a different way thinking and structuring your code.
+there types of programming approaches which are functional programming
+object oriented.
+The standards for JavaScript are the ECMAScript Language Specification (ECMA-262)
+ECMAScript (often abbreviated as ES) is the official standard 
+specification for the JavaScript programming language. JavaScript is an 
+implementation of the ECMAScript standard.
+ecmascript tells programmers hoe to write javascript correctly.
+ECMAScript is like the official set of rules for the JavaScript
+ programming language. It tells programmers how they should write and 
+use JavaScript.
+
+Just like you need to follow the rules in a game to play it correctly,
+ programmers need to follow the rules in ECMAScript to write JavaScript
+ code correctly.

@@ -1,0 +1,23 @@
+const: const stands for "constant." When you declare a variable with 
+const, its value cannot be changed once assigned. It provides a 
+read-only reference to a value. Use const when you know the value 
+won't change throughout your code.
+
+const PI = 3.14;
+
+let: let allows you to declare a variable with block scope. It means
+ the variable's scope is limited to the block where it's defined 
+(within curly braces {}). You can change the value of a let variable. 
+Use let when you need a variable that can be reassigned within a block.
+
+let counter = 0;
+counter = 1; // Value can be changed
+
+var: var is the older way of declaring variables in JavaScript. It has
+ function scope, which means the variable is accessible within the
+ entire function in which it is defined. Unlike let and const, var
+ doesn't have block scope. It can be reassigned and hoisted (i.e., 
+moved to the top of its scope).
+var message = "Hello!";
+ch
+

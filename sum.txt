@@ -1,0 +1,18 @@
+Summary
+let allows you to declare a variable that can be changed later,
+ like a box you can put different things in. On the other hand, const 
+lets you declare a variable that can't be changed once you've assigned
+ a value, like a box that's sealed shut with its contents.
+the equal sign is an assignment operator.
+in javascript you can store a value with an assignment operator.
+camel case
+initializing variables with a assignment operator.
+weds lesson:
+declare a read only variable with const keyword.
+add two numbers with jvscript
+minus
+times
+division.
+increment a number with javascript.
+i++ is the same as i equals i plus one,
+i=i+1.
