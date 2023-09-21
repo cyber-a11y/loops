@@ -31,17 +31,4 @@ do {
 while (i >= 0) {
   console.log(i);
   i--;
-  }**/
-
-   /**var i = 10; // begin at 10
-while (i > 0) {
-    console.log( i-- ); // prints 10, 9, ..., 1
-}
-console.log("Blast Off!");**/
-
-
-
-
-
-
-
+  }
